@@ -1,3 +1,3 @@
 # WebConference
-Aplicação web para gerir uma Conferência<br>
-Primeira alteração!
+
+<p>Navbar e Header prontos<p>
